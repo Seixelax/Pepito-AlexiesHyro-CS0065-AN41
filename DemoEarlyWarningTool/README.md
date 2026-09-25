@@ -1,4 +1,6 @@
-# Asynchronous Activity 1: Student Early Warning Tool Using KNIME
+# Asynch Activity 1: Student Early Warning Tool Using KNIME
+
+![KNIME Workflow](workflow.png)
 
 ## 📌 Project Overview
 This repository contains a machine learning workflow developed in KNIME Analytics Platform to predict student academic risk. The primary objective is to identify students who may require additional academic support by classifying them as either **At Risk** or **Not At Risk**. 
@@ -39,4 +41,4 @@ To reproduce this workflow on your local machine:
    - Right-click any of the **Scorer** nodes at the end of the branches and select **View: Confusion Matrix** or **Accuracy Statistics** to inspect the model's performance.
 
 ## 👤 Author
-- **Alexies Hyro Pepito**
+- [**Alexies Hyro Pepito**](https://github.com/Seixelax)
