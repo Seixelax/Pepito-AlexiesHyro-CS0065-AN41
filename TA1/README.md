@@ -11,7 +11,7 @@ This serves as the technical assessment (TA1) for CS0065 (Intelligent Systems), 
 - `TA1_RandomWalk.ipynb`: The Google Colab Python notebook containing the agent-based model, animation rendering, and CSV export logic.
 - `scenario_8agents_15x15_steps30.csv`: The exported final coordinate data for the diffusion/exploration scenario.
 - `scenario_40agents_8x8_steps25.csv`: The exported final coordinate data for the crowd congestion scenario.
-- `TA1_Pepito.pdf`: The final compiled laboratory report detailing the code, visual outputs, and analytical answers.
+- `PEPITO_TA1.pdf`: The final compiled laboratory report detailing the code, visual outputs, and analytical answers.
 
 ## 📊 Simulation Parameters
 The simulation environment is dynamically generated based on user inputs. The primary variables controlling the system include:
